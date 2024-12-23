@@ -1,0 +1,30 @@
+{
+  "name": "@evitcastudio/kit-plugins",
+  "version": "1.0.0",
+  "author": "doubleactii 56242467+doubleactii@users.noreply.github.com (https://evitcastudio.com)",
+  "main": "src/index.ts",
+  "module": "src/index.ts",
+  "type": "module",
+  "description": "The hub for official plugins for the Kit framework.",
+  "keywords": [
+    "framework",
+    "multiplayer",
+    "single-player",
+    "kit-plugins",
+    "kit",
+    "plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EvitcaStudio/KitPlugins.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EvitcaStudio/KitPlugins/issues"
+  },
+  "homepage": "https://github.com/EvitcaStudio/KitPlugins",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.7.2"
+  }
+}
